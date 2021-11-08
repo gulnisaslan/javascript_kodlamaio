@@ -107,3 +107,6 @@ let newProductName,newUnitPrice,NewQuantity
 {productName:"Elma",unitPrice:10,quantity:5};
 console.log(newProductName);
 
+
+
+
